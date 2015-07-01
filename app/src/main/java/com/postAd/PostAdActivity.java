@@ -90,7 +90,7 @@ public class PostAdActivity extends Activity {
             public void onClick(View v) {
                 if(dynamicAttr.getVisibility()==View.VISIBLE){
 
-                    dynamicAttr.setVisibility(View.GONE);
+                    dynamicAttr.setVisibility(View.VISIBLE);
                 }
             }
         });
