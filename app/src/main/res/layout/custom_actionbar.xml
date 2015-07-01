@@ -1,0 +1,14 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton
+        android:padding="10dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/lisicon1"
+        android:id="@+id/slidingmenucategories" />
+
+</LinearLayout>
